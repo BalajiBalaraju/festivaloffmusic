@@ -1,0 +1,10 @@
+festival-of-music/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── hero.jpg
+│   ├── classical.jpg
+│   ├── jazz.jpg
+│   ├── pop.jpg
+│   ├── electronic.jpg
